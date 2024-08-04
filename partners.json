@@ -1,0 +1,16 @@
+{
+    "partners":[
+        {
+            "id":1,
+            "name":"Bob Ross",
+            "life":"October 29, 1942 -  4 Jul, 1995",
+            "website":"https://www.bobross.com"
+        },
+        {
+            "id":2,
+            "name":"Harry Potter",
+            "life":"July 1980+",
+            "website":"https://www.bloomsbury.com/discover/harry-potter/home/"
+        }
+    ]
+}
